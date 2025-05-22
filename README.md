@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nitin Pahuja! 👋
 
-<!--
-**pnitin10/pnitin10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Backend Developer with experience in Django, FastAPI, REST APIs, PostgreSQL, and cloud deployments (AWS/Docker). I love writing clean, scalable code and building products that solve real-world problems.
 
-Here are some ideas to get you started:
+## 💼 What I Work With:
+- **Languages**: Python, Golang, JavaScript
+- **Frameworks**: Django, FastAPI
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **DevOps**: Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda), Nginx
+- **Tools**: Git, Postman, Redis, Celery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/nitinpahuja3004)
